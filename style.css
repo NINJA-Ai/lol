@@ -1,0 +1,23 @@
+body
+{   
+background: linear-gradient( #2decd9 0%, #6fed9e 50%, #d4f518 100%);
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 5px 5px 5px lightgrey;
+border-radius: 10px;
+margin-top: 180px;
+}
